@@ -1,0 +1,17 @@
+{
+  "name": "spider-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "crawler": "^1.2.0",
+    "request": "^2.88.0"
+  }
+}
